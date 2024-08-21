@@ -1,6 +1,6 @@
 # 👋 Hola, soy Francisco Imeroni
 
-¡Bienvenido a mi perfil de GitHub! Soy un FullStack Developer con una fuerte pasión por el desarrollo de aplicaciones web y la tecnología en general. Me especializo en el desarrollo backend, pero también disfruto de crear interfaces de usuario funcionales y atractivas.
+Soy un FullStack Developer con una fuerte pasión por el desarrollo de aplicaciones web y la tecnología en general. Me especializo en el desarrollo backend, pero también disfruto de crear interfaces de usuario funcionales y atractivas.
 
 # 🚀 ¿Qué hago?
 
