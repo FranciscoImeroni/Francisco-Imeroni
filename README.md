@@ -1,25 +1,20 @@
-# 👋 Hola, soy Francisco Imeroni
+# 👋 Hi, I'm Francisco Imeroni
+I am a FullStack Developer with a strong passion for web application development and technology in general. I specialize in backend development, but I also enjoy creating functional and attractive user interfaces.
 
-Soy un FullStack Developer con una fuerte pasión por el desarrollo de aplicaciones web y la tecnología en general. Me especializo en el desarrollo backend, pero también disfruto de crear interfaces de usuario funcionales y atractivas.
+## 🚀 What do I do?
+I develop web applications using modern technologies such as JavaScript, TypeScript, NestJs, Express, NodeJs, Docker, PostgreSQL, MongoDB, HTML5, and CSS.
+I focus on writing clean and maintainable code, always striving for efficient and scalable solutions.
+I am constantly learning and adapting to new technologies to improve my skills and provide better solutions.
 
-# 🚀 ¿Qué hago?
+## 🎯 Where am I headed?
+My goal is to continue growing as a FullStack Developer, contributing to challenging projects that positively impact people's lives. I aspire to be part of an innovative team where I can apply my knowledge and keep learning.
 
-Desarrollo aplicaciones web utilizando tecnologías modernas como JavaScript, TypeScript, NestJs, Express, NodeJs, Docker, PostgreSQL, MongoDB, HTML5, y CSS.
-Tengo un enfoque en la creación de código limpio y mantenible, buscando siempre soluciones eficientes y escalables.
-Estoy constantemente aprendiendo y adaptándome a nuevas tecnologías para mejorar mis habilidades y ofrecer mejores soluciones.
+## 💻 Technologies I use
+Languages: JavaScript, TypeScript
+Frontend: React, Next.js, HTML5, CSS
+Backend: NestJs, NodeJs, Express
+Databases: PostgreSQL, MongoDB
+Tools and platforms: Docker, Git, Swagger
 
-# 🎯 ¿Hacia dónde me dirijo?
-
-Mi objetivo es seguir creciendo como desarrollador FullStack, contribuyendo a proyectos desafiantes que impacten de manera positiva en la vida de las personas. Aspiro a formar parte de un equipo innovador donde pueda aplicar mis conocimientos y seguir aprendiendo.
-
-# 💻 Tecnologías que uso
-
-- Lenguajes: JavaScript, TypeScript
-- Frontend: React, Next.js, HTML5, CSS
-- Backend: NestJs, NodeJs, Express
-- Bases de datos: PostgreSQL, MongoDB
-- Herramientas y plataformas: Docker, Git, Swagger
-
-# 📫 ¡No dudes en contactarme!
-
-Estoy siempre abierto a nuevas oportunidades y colaboraciones. Puedes contactarme a través de franciscoimeroni@gmail.com o visitar mi perfil de [LinkedIn](https://www.linkedin.com/in/francisco-imeroni-010b77280/).
+## 📫 Feel free to contact me!
+I am always open to new opportunities and collaborations. You can reach me at franciscoimeroni@gmail.com or visit my [LinkedIn](https://www.linkedin.com/in/francisco-imeroni-010b77280/) profile.
