@@ -11,6 +11,7 @@ My goal is to continue growing as a FullStack Developer, contributing to challen
 
 ## 💻 Technologies I use
 Languages: JavaScript, TypeScript
+
 Frontend: React, Next.js, HTML5, CSS
 Backend: NestJs, NodeJs, Express
 Databases: PostgreSQL, MongoDB
